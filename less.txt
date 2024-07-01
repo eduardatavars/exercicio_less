@@ -1,0 +1,11 @@
+INSTALL LESS
+
+npm install -g less
+npm init
+npm install --save-dev less
+npm run less
+
+PLUGIN WATCH 
+
+npm i -g less-watch-compiler
+npm i --save-dev less-watch-compiler
